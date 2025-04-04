@@ -1,5 +1,5 @@
-# MTMF-Transformer
-MTMF-Transformer: A Multimodal Tabular Transformer with Multi-Level Fusion for Disease Prediction using Biomedical Data
+# MSFT-Transformer
+MSFT-Transformer: A Multi-Stage Fusion Tabular Transformer for Disease Prediction using Metagenomic Data
 
 ## Quick Setup Guide:
 1. Step 1: Change the current working directory to the location where you want to install MTMF-Transformer

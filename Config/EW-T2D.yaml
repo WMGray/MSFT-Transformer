@@ -1,0 +1,25 @@
+MTMFTransformer:
+    ko,species:
+        n_layers: 2
+        num_bottleneck: 4
+        use_bottleneck: True
+        batch_size: 8
+        lr: 1e-3
+FT-Concat:
+    ko,species:
+        'n_blocks': 1
+        'lr': 0.001
+        'batch_size': 8
+FT-Vote:
+    ko,species:
+        'n_blocks': 1
+        'lr': 0.0001
+        'batch_size': 16
+MBT:
+    ko,species:
+        n_layers: 3
+        m_layers: 1
+        num_bottleneck: 4
+        hidden_size: 0
+        lr: 6e-5
+        batch_size: 4

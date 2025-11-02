@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 ## Citation
-``` python
+``` bash
 @article{wang2025msft,
   title={MSFT-transformer: a multistage fusion tabular transformer for disease prediction using metagenomic data},
   author={Wang, Ning and Wu, Minghui and Gu, Wenchao and Dai, Chenglong and Shao, Zongru and Subbalakshmi, KP},
